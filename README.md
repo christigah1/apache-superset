@@ -18,8 +18,7 @@ Step 2.3: docker-compose up
 
 wait around 10 to 20 mins to setup everything
 
-Step3: Once above setup completes, open http://localhost:8088 in the browser
-
+**Step3: Once above setup completes, open http://localhost:8088 in the browser**
 username: admin
 password: admin
 
