@@ -10,7 +10,7 @@ There are various installations set-up to chose from:
 *Installing Superset Locally Using Docker Compose
 *Installing Superset from Scratch
 *Installing on Kubernetes
-NB: https://superset.apache.org/docs/installation/installing-superset-using-docker-compose
+Link with all set-up steps: https://superset.apache.org/docs/installation/installing-superset-using-docker-compose
 
 **Installing Superset Locally Using Docker Compose**
 
