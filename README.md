@@ -6,6 +6,14 @@ The project will includes;
 *Creation of charts and dashbaords
 
 **Installation of the superset**
+There are various installations set-up to chose from:
+*Installing Superset Locally Using Docker Compose
+*Installing Superset from Scratch
+*Installing on Kubernetes
+NB: https://superset.apache.org/docs/installation/installing-superset-using-docker-compose
+
+**Installing Superset Locally Using Docker Compose**
+
 **Step 1: Install Docker Desktop for windows:**
 Download using this link: https://www.docker.com/products/docker-desktop/
 
